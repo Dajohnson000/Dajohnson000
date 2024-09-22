@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dajohnson000
-- 👀 I’m interested in art amd design
+- 👀 I’m interested in art and design
 - 🌱 I’m currently learning html, css, java script, and p5
 - 📫 How to reach me through my instagram at the same username
 - 😄 Pronouns: he/him
